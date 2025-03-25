@@ -4,9 +4,9 @@
 
 # Screeshots
 
-![Weather Dashboard](assets\dashboard1.png)
+![Weather Dashboard](./assets/dashboard1.png)
 
-![Weather Update](assets\dashboard3.png)
+![Weather Update](./assets/dashboard3.png)
 
 ## Tech Stack
 
